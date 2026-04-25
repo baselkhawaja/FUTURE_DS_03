@@ -1,4 +1,3 @@
-# FUTURE_DS_03
 <img width="1676" height="719" alt="image" src="https://github.com/user-attachments/assets/8d151417-4044-40bc-a6b9-e48614431c0a" />
 # Marketing Funnel & Conversion Analysis Dashboard (Task 3)
 
@@ -83,6 +82,7 @@ Longer call durations strongly correlate with higher conversion rates. Short cal
 ## Files Included
 
 * Marketing_Funnel_Conversion_Analysis.xlsx (Dashboard and analysis)
+* dashboard.png (Dashboard screenshot)
 
 ---
 
